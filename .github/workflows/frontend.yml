@@ -50,7 +50,7 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: |
-            kamsinox/lab7 
+            kamsinox/lab6
       
       #Przenies cache'a
       - name: Move cache
